@@ -1,0 +1,22 @@
+[
+
+{
+    "id": 1,
+    "nombre": "Zapatos",
+    "color": "Azul",
+    "precio": 150000,
+    "stock": true,
+    "codigo": "1000",
+    "publicado": true,
+    "fecha": "2021-12-22"
+}, {
+    "id": 2,
+    "nombre": "Tenis",
+    "color": "Negro",
+    "precio": 1500000,
+    "stock": true,
+    "codigo": "1000",
+    "publicado": true,
+    "fecha": "2021-12-22"
+}
+]
